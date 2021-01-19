@@ -1,6 +1,6 @@
 # login_page_ui
 
-Uma aplicação feita na linguangem Dart utilizando o Frameword Flutter.
+Uma aplicação feita na linguangem Dart utilizando o Framework Flutter.
 Apenas uma dela de login, contento uma personalização com um fundo de um relógio
 
 ## Para Utilizar
@@ -12,4 +12,4 @@ Fui utilizado nesse caso o VSCode para fazer a programação, que também tem o 
 Para mais informações:
 
 - [Lab: Escreva seu primeiro App em Flutter](https://flutter.dev/docs/get-started/codelab)
-- [Documentação: Livro de receitas [:)] Flutter samples](https://flutter.dev/docs/cookbook)
+- [Documentação: Livro de receitas [:)] Flutter simple](https://flutter.dev/docs/cookbook)
