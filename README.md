@@ -1,17 +1,15 @@
 # login_page_ui
 
-A new Flutter application.
+Uma aplicação feita na linguangem Dart utilizando o Frameword Flutter.
+Apenas uma dela de login, contento uma personalização com um fundo de um relógio
 
-## Getting Started
+## Para Utilizar
 
-This project is a starting point for a Flutter application.
+Para fazer a utilização é necessário ter a ferramenta do Android Studio instalado,
+e fazer a configuração do framework do Flutter, instalado o seu plugin diretamente na IDE do android studio, que por si mesmo irá fazer instalação do Dart também.
+Fui utilizado nesse caso o VSCode para fazer a programação, que também tem o plugin do Flutter e Dart instalado.
 
-A few resources to get you started if this is your first Flutter project:
+Para mais informações:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# criando o repositorio de login_page_ui feito em Flutter
