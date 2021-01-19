@@ -11,5 +11,5 @@ Fui utilizado nesse caso o VSCode para fazer a programação, que também tem o 
 
 Para mais informações:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Escreva seu primeiro App em Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Documentação: Livro de receitas [:)] Flutter samples](https://flutter.dev/docs/cookbook)
